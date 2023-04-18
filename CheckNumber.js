@@ -1,3 +1,5 @@
+// Program to Check if a number is Positive, Negative, or Zero
+
 function check(num) {
     if(num === 0)
       return `The given number is Zero`;

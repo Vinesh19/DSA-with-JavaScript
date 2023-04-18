@@ -16,4 +16,3 @@ console.log(isPrime(-3));
 console.log(isPrime(1));
 console.log(isPrime(9));
 console.log(isPrime(17));
-
