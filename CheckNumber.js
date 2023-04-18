@@ -1,10 +1,10 @@
 function check(num) {
     if(num === 0)
-      console.log(`The given number is Zero`);
+      return `The given number is Zero`;
     else if(num > 0)
-      console.log(`The given number is Positive`);
+      return `The given number is Positive`;
     else 
-      console.log(`The given number is Negative`);    
+      return `The given number is Negative`;    
 }
 
 console.log(check(0));
